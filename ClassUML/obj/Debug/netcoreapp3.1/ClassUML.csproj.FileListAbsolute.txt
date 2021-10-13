@@ -1,0 +1,13 @@
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.exe
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.deps.json
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.runtimeconfig.json
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.dll
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.pdb
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.dll
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.pdb
+C:\Users\TheTower\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.genruntimeconfig.cache
